@@ -2,7 +2,7 @@
 Official code of IEEE TIM ["Generalizable Remote Physiological Measurement via Semantic-Sheltered Alignment and Plausible Style Randomization"](https://personal.hkust-gz.edu.cn/hedengbo/assets/publicationPDFs/Wang-IEEE-TIM_2024a.pdf)
 
 <div style="text-align:center;">
-  <img src="Framework.png" style="width:100%;" />
+  <img src="framework.png" style="width:100%;" />
 </div>
 
 
