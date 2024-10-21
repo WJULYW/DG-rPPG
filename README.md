@@ -19,6 +19,8 @@ After getting STMaps, you can create a new './STMap' folder and put them into it
 ## Pre-trained Model
 In this work, we utilized the ResNet18 as the backbone network. You can download it directly from this [link](https://download.pytorch.org/models/resnet18-5c106cde.pth).
 Next, create a new folder './pre_encoder' and put the pth file into it.
+For the first time running, please adjust the hyperparameter 'reData' to 1, to generate the STMap index.
+
 
 ## Train and Test
 Then, you can try to train it with the following command:
