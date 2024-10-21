@@ -1,5 +1,5 @@
 # DG-rPPG
-Official code of IEEE TIM ["Generalizable Remote Physiological Measurement via Semantic-Sheltered Alignment and Plausible Style Randomization"](https://personal.hkust-gz.edu.cn/hedengbo/assets/publicationPDFs/Wang-IEEE-TIM_2024a.pdf)
+Official code of IEEE TIM 2024 ["Generalizable Remote Physiological Measurement via Semantic-Sheltered Alignment and Plausible Style Randomization"](https://personal.hkust-gz.edu.cn/hedengbo/assets/publicationPDFs/Wang-IEEE-TIM_2024a.pdf)
 
 <div style="text-align:center;">
   <img src="framework.png" style="width:100%;" />
