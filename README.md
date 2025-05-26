@@ -7,7 +7,7 @@ Official code of IEEE TIM 2024 ["Generalizable Remote Physiological Measurement 
 
 
 ## Data Prepare
-You can refer to https://github.com/EnVision-Research/NEST-rPPG to obtain the processed STMaps.
+You can refer to [link](https://github.com/EnVision-Research/NEST-rPPG) to obtain the processed STMaps.
 Before that, please get the permission to use the following datasets first:
 [**VIPL**](http://vipl.ict.ac.cn/en/resources/databases/201901/t20190104_34800.html),
 [**V4V**](https://competitions.codalab.org/competitions/31978),
